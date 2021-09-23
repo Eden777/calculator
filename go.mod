@@ -1,3 +1,3 @@
-module github.com/Eden777/calcuator
+module github.com/Eden777/calculator
 
 go 1.17
